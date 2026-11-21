@@ -1,0 +1,6 @@
+{
+  "name": "Project Innocence",
+  "description": "Comprehensive legal defense vault, anticipated opposing evidence tracker, searchable law library, and AI paralegal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
